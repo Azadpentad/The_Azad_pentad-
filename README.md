@@ -44,6 +44,6 @@ The current "Hubble Tension" and "Crisis in Cosmology" exist because mainstream 
 - **Expansion is an Illusion:** Redshift is not caused by galaxies moving away.
 - **Geometric Curvature:** Redshift is caused by light curving through the high-density 5D Plenum over vast distances. 
 
-
+Azad_Pentad_Redshift_Rectification.ipynb
 
 ​
