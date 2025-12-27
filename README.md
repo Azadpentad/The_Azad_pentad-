@@ -46,4 +46,4 @@ The current "Hubble Tension" and "Crisis in Cosmology" exist because mainstream 
 
 Azad_Pentad_Redshift_Rectification.ipynb
 
-​
+​ "As of late 2025, the Azad Pentad (Ref #17680744) is indexed by major search engines, linking this repository to independent research papers on Academia.edu and Substack."
