@@ -47,3 +47,21 @@ The current "Hubble Tension" and "Crisis in Cosmology" exist because mainstream 
 Azad_Pentad_Redshift_Rectification.ipynb
 
 ​ "As of late 2025, the Azad Pentad (Ref #17680744) is indexed by major search engines, linking this repository to independent research papers on Academia.edu and Substack."
+The Azad Pentad: Absolute Persistence (Ref #17680744)
+​Official repository for the 5D Stationary Manifold framework developed by Ahammed Azad Kunnath.
+​Theoretical Overview
+​This project challenges the Standard Cosmological Model by replacing the "Expanding Universe" theory with Absolute Persistence.
+​The Bending Ruler Effect
+​We demonstrate that cosmological redshift is a result of Linearity (L) distortion in a 5D manifold. This effect creates an observational illusion of expansion, resolving the Hubble Tension without the need for Dark Energy.
+​The Master Equation
+
+(S × T × E × L × M) = Psi
+
+Project Identification
+​Lead Researcher: Ahammed Azad Kunnath
+​Project ID: #17680744
+​Official Publication: Substack Link
+​© 2025 Ahammed Azad Kunnath. All Rights Reserved.
+License: This repository contains proprietary research. Unauthorized use or reproduction is strictly prohibited
+
+https://1drv.ms/b/c/ebc875dce8581a0e/IQAun7tWCBQiSbSVQ0Q_esbwARKUJGItjyPvL60Ldzxn6Ok
