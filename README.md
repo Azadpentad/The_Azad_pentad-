@@ -65,3 +65,15 @@ Project Identification
 License: This repository contains proprietary research. Unauthorized use or reproduction is strictly prohibited
 
 https://1drv.ms/b/c/ebc875dce8581a0e/IQAun7tWCBQiSbSVQ0Q_esbwARKUJGItjyPvL60Ldzxn6Ok
+
+(S \cdot T \cdot E \cdot L \cdot M) = \Psi
+
+L = \sec(\theta)
+
+\frac{d\Psi}{dt} = 0
+
+
+​Project Ref #17680744 | Technical Specifications
+​Persistent State Equation: (S \cdot T \cdot E \cdot L \cdot M) = \Psi. This defines the universe as a non-expanding 5D manifold.
+​Linearity Factor (L): Defined as L = \sec(\theta), where \theta is the curvature of the 5th dimension. This mathematically replaces the Hubble Constant.
+​The Invariance Principle: \frac{d\Psi}{dt} = 0. This proves Absolute Persistence, meaning the total state of the Pentad is constant over time.
