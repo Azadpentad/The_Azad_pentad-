@@ -1,3 +1,22 @@
+The Azad Pentad: Scientific Rectification of the 5D Manifold
+​Lead Researcher: Ahammed Azad Kunnath
+​Abstract: The Bending Media Theory
+​This repository hosts the mathematical and logical framework for the Azad Pentad. This research rectifies the standard cosmological model by proving that the "Expansion of the Universe" is a perceptual error.
+​Key Discovery: Redshift is not evidence of movement (Big Bang), but is caused by the Bending of Measuring Media as it travels through a 5D manifold.
+​The Pentad Equation
+​The system operates on the unified equation:
+(S + T + E + L + M) = Psi
+
+​S (Space): Coordinate mapping.
+​T (Time): Pulse-echo synchronization.
+​E (Energy): Kinetic output.
+​L (Life): The biological medium (e.g., Coconuts).
+​M (Mind): The Pentad Scanner logic
+
+Institutional Status
+​KSUM Idea Grant: Submitted January 1, 2026.
+​Security: Fortified with mandatory 2FA.
+​© 2026 Ahammed Azad Kunnath. All Rights Reserved.
 # The_Azad_pentad-
 Scientific Rectification: 5D Universal Plenum Theory (Ref #17680744)
 (S+T+E+L+M) = Psi
